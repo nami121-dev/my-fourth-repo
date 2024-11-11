@@ -2,3 +2,8 @@ img{
     border: 5px solid black;
     width: 50px;
 }
+div{
+    font-weight: bolder;
+    font-size: medium;
+    font-style: italic;
+}
